@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
+baseurl = "https://demo.mythingy.io"
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"
 # post excert
