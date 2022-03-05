@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Zaraz demo | hugo landing page template"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -19,42 +19,42 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
+name = "Blog"
+url = "blog/"
+weight = 1
 [[menu.footer]]
 name = "Contact"
 url = "contact/"
 weight = 2
 [[menu.footer]]
-name = "Blog"
-url = "blog/"
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 3
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
+[[menu.main]]
+name = "Home"
+url = "/"
 weight = 1
 [[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
+name = "Products"
+url = "products/"
+weight = 2
+[[menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 3
 [[menu.main]]
 name = "Review"
 pre = "#"
 url = "testimonial"
 weight = 4
 [[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 3
-[[menu.main]]
-name = "Products"
-url = "products/"
-weight = 2
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Contact"
+url = "contact/"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
