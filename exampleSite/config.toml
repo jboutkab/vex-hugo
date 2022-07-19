@@ -1,4 +1,4 @@
-baseurl = "https://mywatch.mythingy.io"
+baseurl = "https://demo.mythingy.io"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
